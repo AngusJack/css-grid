@@ -7,6 +7,18 @@ h2 {
 	text-align: center;
 }
 
+/*INTRODUCTION*/
+
+.introduction {
+	text-align: center;
+	/*max-width:90%;*/
+}
+
+.banner img {
+	width: 100%;
+	height: auto;
+}
+
 /*CSS GRID STYLES*/
  
 .canvas {
@@ -90,7 +102,6 @@ h2 {
 .main-nav a:hover {
 	color: #718daa;
 }
-
 
 
 .header {
